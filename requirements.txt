@@ -1,5 +1,5 @@
 aiml
-autocorrect
+autocorrect==2.6.1
 click
 colorama
 Flask
